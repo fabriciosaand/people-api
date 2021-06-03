@@ -1,4 +1,4 @@
-package com.fabriciosaand.personapi.dto;
+package com.fabriciosaand.personapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
